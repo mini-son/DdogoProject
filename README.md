@@ -1,4 +1,5 @@
-# 나만의 맛집 메모장, 또갈지도
+# Ddogo Spring Boot Project
+나만의 맛집 메모장, 또갈지도
 ![image](https://github.com/mini-son/DdogoProject/assets/134951047/81b6408c-7941-49ef-86a5-565d6dee1ce4)
 
 https://yomprogo.com  
