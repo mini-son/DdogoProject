@@ -1,6 +1,7 @@
 # Ddogo Spring Boot Project
 나만의 맛집 메모장, 또갈지도
-![image](https://github.com/mini-son/DdogoProject/assets/134951047/81b6408c-7941-49ef-86a5-565d6dee1ce4)
+![image](https://github.com/mini-son/DdogoProject/assets/134951047/81b6408c-7941-49ef-86a5-565d6dee1ce4)  
+![image](https://github.com/mini-son/DdogoProject/assets/134951047/5a121138-ebaa-44d4-8b4e-54c4d5323a37)
 
 https://yomprogo.com  
 -> 더미데이터 관리 문제로 메인 페이지의 오늘의 BEST5표시 대신 이번달 BEST5로 변경하였습니다.  
@@ -21,11 +22,11 @@ https://yomprogo.com
 - 기간 : 2023.08.17 ~ 09.11  
 - 인원 : 5명  
 - 개발 도구 : IntelliJ 2023.2  
-- 언어 : Java 17.0.8,  JavaScript, HTML5/CSS3, Thymeleaf, JPA, MyBatis  
+- 언어 : Java 17.0.8,  JavaScript, HTML5, CSS3, JPA, MyBatis  
 - 개발 환경 : Spring 6.0.11,Spring Boot 3.0.9  
 - 서버 : Apache Tomcat 9.0, AWS EC2  
 - DB : MySQL 8.0.33  
-- API : KaKao Maps API, NAVER CLOVA SENTIMENT API, Mail API  
+- API : Thymeleaf, NAVER CLOVA SENTIMENT API, KaKao Maps API, Mail API  
   
 <br/>   
   
