@@ -36,5 +36,16 @@ https://yomprogo.com
 3. NAVER　CLOVA SENTIMENT 감정분석 Open API 사용
 4. 모달창 이용 리뷰, 리뷰 온도 표시
 5. Tiles를 활용한 layout 구성
+
+<br/>   
+  
+## 소스 코드
+- 메인페이지  
+https://github.com/mini-son/DdogoProject/tree/master/src/main/java/com/yumpro/ddogo/main  
+https://github.com/mini-son/DdogoProject/tree/master/src/main/resources/mybatis/mapper/main  
+https://github.com/mini-son/DdogoProject/tree/master/src/main/resources/static/js/main  
+  
+- NAVER　CLOVA SENTIMENT 감정분석 Open API 사용  
+https://github.com/mini-son/DdogoProject/tree/master/src/main/java/com/yumpro/ddogo/emoAnal  
      
   
