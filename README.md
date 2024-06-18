@@ -3,7 +3,7 @@
 ![image](https://github.com/mini-son/DdogoProject/assets/134951047/81b6408c-7941-49ef-86a5-565d6dee1ce4)  
 ![image](https://github.com/mini-son/DdogoProject/assets/134951047/5a121138-ebaa-44d4-8b4e-54c4d5323a37)
 
-https://yomprogo.com  
+https://yomprogo.com (현재 서버 중단) 
 -> 더미데이터 관리 문제로 메인 페이지의 오늘의 BEST5표시 대신 이번달 BEST5로 변경하였습니다.  
    
    
